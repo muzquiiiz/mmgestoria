@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1210 350" fill="none">
-  <title>MMGestoria</title>
-  <g stroke="#ffffff" stroke-width="12" stroke-linejoin="round">
-    <path d="M16 332V17l183 200L376 20v312"/>
-    <path d="M401 332V20l184 202L763 20v190"/>
-  </g>
-  <path d="M1190 18H913c-36 0-48 4-67 23l-59 66c-20 23-24 42-24 71v58c0 55 22 91 83 91h301c27 0 43-15 43-45V178H986" stroke="#92afff" stroke-width="13" stroke-linejoin="round"/>
-</svg>
